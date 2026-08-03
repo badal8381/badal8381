@@ -93,10 +93,11 @@ Leading 8–10 engineers on a multi-tenant **Frappe/ERPNext** platform · hands-
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=badal8381&show_icons=true&count_private=true&bg_color=F4F5F2&title_color=1A2330&text_color=57606E&icon_color=1E6B4E&border_color=D9DAD2&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://streak-stats.demolab.com?user=badal8381&background=F4F5F2&ring=1E6B4E&fire=9E3B2F&currStreakLabel=1A2330&sideLabels=1A2330&currStreakNum=1A2330&sideNums=1A2330&dates=57606E&border=D9DAD2" alt="GitHub streak" />
+<img src="./assets/stats.svg" alt="GitHub stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badal8381&layout=compact&langs_count=8&hide=jupyter%20notebook,html,css&bg_color=F4F5F2&title_color=1A2330&text_color=57606E&border_color=D9DAD2" alt="Top languages" />
+<img src="./assets/langs.svg" alt="Top languages" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=badal8381&background=F4F5F2&ring=1E6B4E&fire=9E3B2F&currStreakLabel=1A2330&sideLabels=1A2330&currStreakNum=1A2330&sideNums=1A2330&dates=57606E&border=D9DAD2" alt="GitHub streak" />
 
 <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=badal8381&bg_color=F4F5F2&color=1A2330&line=1E6B4E&point=9E3B2F&area=true&area_color=DCE8E2&hide_border=false&border_color=D9DAD2&custom_title=Contribution%20activity" alt="Contribution graph" />
 
