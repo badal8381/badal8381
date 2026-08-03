@@ -1,29 +1,46 @@
-# Hi, I'm Badal Sahani 👋
+# Badal Sahani
 
-Senior Software Engineer with 3+ years building production systems that serve **30,000+ users**. I work across the stack — Java/Spring Boot, Python, React, Go — and ship scalable SaaS, GenAI, and RAG platforms on AWS and Kubernetes.
+**Senior Software Engineer / Tech Lead** — I build revenue-grade platforms: ERP and payments at the core, with the AI tooling, realtime systems, and cloud infrastructure around them. Currently leading 8–10 engineers on a multi-tenant education ERP built on **Frappe/ERPNext**, and still hands-on every day — from schema to Terraform to the LLM pipeline that reviews our PRs.
 
-## 🛠 What I do
+🔗 **[badal-sahani.vercel.app](https://badal-sahani.vercel.app)** · [LinkedIn](https://linkedin.com/in/badalsahani) · badalsahani194@gmail.com
 
-- **Backend & distributed systems** — Spring Boot, FastAPI, Django, Kafka, microservices, REST/GraphQL
-- **GenAI & RAG** — LangChain / LangChain4j, OpenAI, pgvector, prompt pipelines, semantic search
-- **Cloud & DevOps** — AWS (EKS, S3, SES, RDS), Kubernetes, Helm, Terraform, GitHub Actions, Prometheus/Grafana
-- **Frontend** — React 18, Next.js, React Native, TypeScript, TailwindCSS, shadcn/ui
-- **Frappe / ERPNext** — custom apps, integrations, payment gateways
+## Journal · FY 2023 – present
 
-## 🚀 Selected work
+| Particulars | Amount |
+| :-- | --: |
+| Annual fee collections processed — plans, EMI, refunds, GL postings | **₹100+ Cr / yr** |
+| Daily collection volume | **₹40–50 L / day** |
+| Users served across 4–5 institutions, one multi-tenant core | **20–30k** |
+| Payment gateways behind one pluggable, HMAC-verified router | **6** |
+| Bank payout rails, incl. ISO 20022 over GPG-encrypted SFTP | **8** |
+| Heaviest API latency, before → after (EXPLAIN + Redis) | **4–5s → <500ms** |
+| Documented infrastructure cost reduction | **−43%** |
 
-- **Unity** — Multi-tenant SaaS for educational institutions: 200+ data models, 100+ REST APIs, 30K+ users, 4 payment gateway integrations, AWS EKS deployment with 99.9% uptime.
-- **InvoiceAI** — Spring Boot 3 + Kafka + Tesseract + GPT-4 Vision document pipeline; 94% extraction accuracy across 12 invoice formats; Redis caching cut LLM costs by 45%.
-- **SynthHub** — Multi-tenant GenAI platform: 8 Spring Boot microservices, RAG over 100K+ docs with LangChain4j + pgvector, JWT/RBAC, deployed on Kubernetes.
+## Four disciplines
 
-## 🧰 Tech
+- **System design** — multi-tenant architecture where correctness is the feature: idempotent webhooks, single-writer settlement, two-tier caching, graceful degradation as a default.
+- **AI engineering** — AI as infrastructure, not garnish: an LLM review pipeline that reads every PR with repo context before a human does; Claude Code and Copilot in the daily loop.
+- **DevOps & platform** — ~9k lines of Terraform (EKS, Multi-AZ RDS MariaDB, IRSA, KMS), Helm + ArgoCD GitOps, zero plaintext secrets, and a multi-tenant Docker dev kit for Frappe benches.
+- **Payments engineering** — ₹100+ crore a year through code I own: every rupee posted, verified, and reconcilable; settlement files auto-posted as Journal Entries.
 
-`Java` `Python` `Go` `TypeScript` `Spring Boot` `FastAPI` `React` `Next.js` `PostgreSQL` `Redis` `Kafka` `Docker` `Kubernetes` `AWS` `LangChain` `pgvector`
+## Selected work
 
-## 📫 Reach me
+| System | What it is |
+| :-- | :-- |
+| **Fees & Finance Engine** | 40+ DocTypes on ERPNext: payment plans, instalments, deferrals, discounts posting GL entries — re-architected as v2 with zero-downtime migration |
+| **Multi-Tenant ERP Core** | 25+ custom Frappe apps, 250+ DocTypes, 500+ REST endpoints — overlay-app architecture, no forks, no monkey-patching |
+| **LLM Review Pipeline** | Every pull request read by an LLM, grounded in the changed code's context, before human review |
+| **Cloud & GitOps Platform** | Terraform-provisioned EKS, Helm + ArgoCD, DragonflyDB, External Secrets Operator |
+| **Realtime Bus Tracking** | Redis pub/sub → Socket.IO → React, with graceful WebSocket-to-polling degradation |
 
-- LinkedIn — [linkedin.com/in/badalsahani](https://linkedin.com/in/badalsahani)
-- Email — badalsahani194@gmail.com
+Public repos: [frappe_toolkit](https://github.com/badal8381/frappe_toolkit) (reusable Frappe/ERPNext utilities) · [chatnext](https://github.com/badal8381/chatnext) (AI chat app, Next.js) · [chatpdf](https://github.com/badal8381/chatpdf) (chat with your documents) · [looma](https://github.com/badal8381/looma) (D2C storefront, Next.js 16)
+
+*Client and institution names are kept private. The numbers are real — and happily discussed in an interview.*
+
+## Stack
+
+`Python` `TypeScript` `Frappe/ERPNext` `MariaDB` `Redis` `React` `Socket.IO` `AWS (EKS · RDS · S3)` `Kubernetes` `Terraform` `Helm` `ArgoCD` `Docker` `Nginx` `Claude Code` `LLM APIs`
+
+---
 
 ![Badal's GitHub stats](https://github-readme-stats.vercel.app/api?username=badal8381&show_icons=true&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=badal8381&layout=compact&hide_border=true)
