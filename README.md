@@ -10,7 +10,7 @@ Leading 8–10 engineers on a multi-tenant **Frappe/ERPNext** platform · hands-
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-badal--sahani.vercel.app-1E6B4E?style=for-the-badge&logo=vercel&logoColor=white)](https://badal-sahani.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-badal.cloud-1E6B4E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.badal.cloud)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-badalsahani-0A66C2?style=for-the-badge)](https://linkedin.com/in/badalsahani)
 [![Email](https://img.shields.io/badge/Email-badalsahani194%40gmail.com-9E3B2F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badalsahani194@gmail.com)
 
@@ -109,6 +109,6 @@ Leading 8–10 engineers on a multi-tenant **Frappe/ERPNext** platform · hands-
 
 💬 *Building on Frappe and need someone who has shipped it at scale — payments, upgrades, infrastructure, team and all?*
 
-**[📫 Write to me](mailto:badalsahani194@gmail.com)** · **[🌐 badal-sahani.vercel.app](https://badal-sahani.vercel.app)**
+**[📫 Write to me](mailto:badalsahani194@gmail.com)** · **[🌐 www.badal.cloud](https://www.badal.cloud)**
 
 </div>
