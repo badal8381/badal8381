@@ -20,14 +20,14 @@ Leading 8–10 engineers on a multi-tenant **Frappe/ERPNext** platform · hands-
 
 ---
 
-## 💰 Impact, by the numbers
+## 📒 Impact, by the numbers
 
 <div align="center">
 
 | 📒 Particulars | Amount |
 | :-- | --: |
-| 💸 Annual fee collections processed — plans, EMI, refunds, GL postings | **₹100+ Cr / yr** |
-| 📈 Daily collection volume | **₹40–50 L / day** |
+| 💸 Fee transactions verified, deduplicated, reconciled — HMAC-signed, idempotent, replay-safe | **100%** |
+| 🧩 Custom Frappe apps in production — thin overlays over one shared core, no forks | **25+** |
 | 👥 Users served across 4–5 institutions, one multi-tenant core | **20–30k** |
 | 🔀 Payment gateways behind one pluggable, HMAC-verified router | **6** |
 | 🏦 Bank payout rails, incl. ISO 20022 over GPG-encrypted SFTP | **8** |
@@ -41,7 +41,7 @@ Leading 8–10 engineers on a multi-tenant **Frappe/ERPNext** platform · hands-
 - 🧩 **System design** — multi-tenant architecture where correctness is the feature: idempotent webhooks, single-writer settlement, two-tier caching, graceful degradation by default
 - 🤖 **AI engineering** — an LLM review pipeline that reads every PR with repo context before a human does; Claude Code & Copilot in the daily loop
 - ⚙️ **DevOps & platform** — ~9k lines of Terraform (EKS, Multi-AZ RDS, IRSA, KMS), Helm + ArgoCD GitOps, zero plaintext secrets
-- 💳 **Payments engineering** — ₹100+ crore a year through code I own: every rupee posted, verified, and reconcilable
+- 💳 **Payments engineering** — high-volume fee collections through code I own: every transaction posted, verified, and reconcilable
 
 ## 🛠️ Tech stack
 
