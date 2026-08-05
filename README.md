@@ -87,7 +87,7 @@ Leading 8–10 engineers on a multi-tenant **Frappe/ERPNext** platform · hands-
 
 🔓 Public repos: [frappe_toolkit](https://github.com/badal8381/frappe_toolkit) · [chatnext](https://github.com/badal8381/chatnext) · [chatpdf](https://github.com/badal8381/chatpdf) · [looma](https://github.com/badal8381/looma)
 
-> 🔒 *Client and institution names are kept private. The numbers are real — and happily discussed in an interview.*
+> 🔒 *Client and institution names are kept private; the numbers are real. If you want the story behind any of them, write to me.*
 
 ## 📊 GitHub stats
 
@@ -107,7 +107,7 @@ Leading 8–10 engineers on a multi-tenant **Frappe/ERPNext** platform · hands-
 
 <div align="center">
 
-💬 *Building on Frappe and need someone who has shipped it at scale — payments, upgrades, infrastructure, team and all?*
+💬 *Building on Frappe and hitting the same walls — payments, upgrades, infrastructure? Always glad to compare notes.*
 
 **[📫 Write to me](mailto:badalsahani194@gmail.com)** · **[🌐 www.badal.cloud](https://www.badal.cloud)**
 
